@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Prediction of Credit Card Default](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
